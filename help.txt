@@ -1,0 +1,13 @@
+help:Emotion Detection of Cohort through Gesture and Posture Analysis in Classroom Context
+------------------------------------------------------------------------------------------
+Step1: prerequirement for running this project
+	1. install python 2.7 
+	2. install python opencv
+	3. install python-numpy
+	4. install python-matpoltlib
+-------------------------------------------------------------------------------------------
+
+ step2: run window.py file
+	select the vedio for processing
+
+-------------------------------------------------------------------------------------------
